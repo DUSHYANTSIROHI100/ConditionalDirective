@@ -1,0 +1,32 @@
+.container{
+    width:500px;
+    height:200px;
+}
+.video-conatiner{
+    width:auto;
+    height:auto;
+    background-color: aqua;
+}
+
+.video-card{
+    width:auto;
+    height:auto;
+}
+.details{
+    display:flex;
+    margin:10px 5px;
+}
+.video-data{
+    margin:5px;
+    font-size:14px;
+}
+i{
+    font-size:16px;
+    margin:10px;
+    color:#FF5722;
+}
+.highlight {
+    background-color: #ddd;
+    border:#FF5722 3px solid;
+    border-radius: 5px;
+}
